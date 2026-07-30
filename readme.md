@@ -221,6 +221,3 @@ The notebook documents all data cleaning, statistical analysis, visualizations, 
 ---
 
 
-# ⭐ If you found this project useful
-
-Feel free to star the repository and connect with me!
