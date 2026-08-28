@@ -2,8 +2,6 @@
 
 An end-to-end data analytics project that explores shipment operations, identifies logistics bottlenecks, and provides actionable business insights through an interactive Streamlit dashboard.
 
-This project was developed as part of a Business Analyst assessment to demonstrate data cleaning, exploratory analysis, KPI development, visualization, and business decision-making using Python.
-
 ---
 
 ## 📌 Project Overview
